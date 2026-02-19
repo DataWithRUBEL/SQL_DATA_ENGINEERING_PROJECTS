@@ -12,3 +12,4 @@ SQL-driven analysis of data engineer job market trends using advanced querying t
 
 Skills: Complex joins, aggregations, analytical functions, data quality validation
 
+
