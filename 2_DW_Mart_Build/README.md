@@ -78,7 +78,7 @@ The data warehouse implements a star schema with `company_dim`, `skills_dim`, `j
 
 Denormalized table with all dimensions for ad-hoc queries.
 
-![Flat_Mart](../Images\1_2_Flat_Mart.png)
+![Flat_Mart](../Images/1_2_Flat_Mart.png)
 
 - **SQL File:** `03_create_flat_mart.sql` – Builds denormalized table with all dimensions joined
 - **Purpose:** Denormalized table for quick ad-hoc queries
